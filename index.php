@@ -1,4 +1,7 @@
-<?php include $_SERVER['DOCUMENT_ROOT']."/1218Board/db/boarddb.php"; ?>
+<?php 
+    include $_SERVER['DOCUMENT_ROOT']."/1218Board/db/boarddb.php"; 
+?>
+
 <!doctype html>
 <head>
 <meta charset="UTF-8">
