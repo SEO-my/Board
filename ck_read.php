@@ -10,7 +10,7 @@
 		 	modal:true,
 		 	title:'秘密の文です。',
 		 	width:400,
-	 	});
+	 	}); //11
 	});
 </script>
 <?php
